@@ -1,7 +1,7 @@
 <img align="center" alt="Banner" height="250" width="1100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8WJeR47Uq5u6fZfvV2q6w17WL8-586YiSylf_U8DOSDYienqDFfIIgRt-G5rSDLeCD5g&usqp=CAU">
 
 <h1 alingn="center">Hi 👋,  I'm Advait Pawar</h1> 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/mH7xKvTA0DUAAAAj/geek-pc-expert.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalgupta0007&label=Profile%20views&color=0e75b6&style=flat" alt="gopalgupta0007" /> </p>
