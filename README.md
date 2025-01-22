@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopalgupta0007" alt="gopalgupta0007" /></a> </p>
 
-- 🌱 I’m currently learning *MERN Stack Development*
+- 🌱 I’m a *Full stack deveoper*
 
-- ✨ I'm currently working on *RandomType Web Application* using MERN
+- ✨ I'm currently working on *ReactorBee* using springboot developer
 
-- 📫 How to reach me *guptagopal18082003@gmail.com*
+- 📫 How to reach me *pawaradvait2003@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
